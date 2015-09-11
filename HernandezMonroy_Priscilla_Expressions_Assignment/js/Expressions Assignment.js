@@ -9,8 +9,9 @@
 
 //Create a child care calculator
 
-//Greet the user
+// Greet user
 alert("Welcome!\nLets find out how much you spend on child care in one year.");
+
 
 //Ask user how much do they spend on child care per week
 
