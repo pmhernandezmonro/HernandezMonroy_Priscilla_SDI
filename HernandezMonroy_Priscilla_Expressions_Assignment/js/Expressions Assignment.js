@@ -27,7 +27,7 @@ var amount = Month * howMuch;
 
 //alert user with amount they spend in one month
 console.log(" In one month you spend "+amount+ " dollars on child care. ");
-alert(" In one month you spend "+Month+ " dollars on child care. ");
+alert(" In one month you spend "+amount+ " dollars on child care. ");
 
 //Figure out how much they spend in one year
 alert(" Next you will find out how much you spend in one year")
@@ -44,12 +44,18 @@ var total = oneYear * amount;
 console.log(" In one year you spend "+total+" dollars on child care. ");
 alert("In one year you spend "+total+" dollars on child care. ");
 
-//
-alert("Thank you!");
 
+/* I typed 100 dollars for amount spent per week and my calculator gave me
+ 400 as the final answer. */
 
+/* Next it gave me the final answer of the amount spent in
+one year which was 4800 */
 
+/* I typed 200 dollars for amount spent per week on child care and my
+calculator gave me the amount of 800 for one month */
 
+/* Next it gave me the final answer of the amount spent in
+one year which was 9600 for the year. */
 
 
 
