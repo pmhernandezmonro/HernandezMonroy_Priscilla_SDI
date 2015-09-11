@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6ceae3f-2223-4f06-94f6-81d2a66dbe87" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions Assignment.js" afterPath="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions Assignment.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HernandezMonroy_Priscilla_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,8 +36,8 @@
       <file leaf-file-name="Expressions Assignment.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions Assignment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31337047">
-              <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+            <state vertical-scroll-proportion="0.14345405">
+              <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -66,8 +66,9 @@
         <option value="$PROJECT_DIR$/GoToTrainingWeek2/js/week2.js" />
         <option value="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/Expressions Assignment.js" />
         <option value="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/Js2/Expressions Assignment.js" />
-        <option value="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/Expressions Assignment.html" />
         <option value="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions Assignment.js" />
+        <option value="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions Assignment.html" />
+        <option value="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/Expressions Assignment.html" />
       </list>
     </option>
   </component>
@@ -168,9 +169,12 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment" />
+      <recent name="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js" />
       <recent name="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/Js2" />
     </key>
   </component>
@@ -233,7 +237,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298351" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.028294863" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39166045" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -273,11 +277,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../Screen Shot 2015-09-10 at 7.43.16 PM.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GoToTrainingWeek2/js/week2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -306,8 +305,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31337047">
-          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+        <state vertical-scroll-proportion="0.14345405">
+          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
