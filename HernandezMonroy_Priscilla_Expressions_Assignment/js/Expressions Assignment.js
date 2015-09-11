@@ -12,19 +12,44 @@
 //Greet the user
 alert("Welcome!\nLets find out how much you spend on child care in one year.");
 
-//Ask user how much do they spend on child care on a monthly bases
+//Ask user how much do they spend on child care per week
 
-var monthlyBases = prompt("How much do you spend on child care on a monthly bases?");
+var howMuch = prompt("How much do you spend on child care in per week?");
 
 //Create console.log to check answer
-console.log(monthlyBases);
+console.log(howMuch);
 
-//Need to know much they spend in one month on child care
+//How many weeks are in one month
+ var Month = 4;
 
-//Find out how much they pay for child care in 4 weeks
-var Weeks = 4;
+//Figure out amount spent
+var amount = Month * howMuch;
 
-//Figure out amount
-var amount = Weeks * monthlyBases;
+//alert user with amount they spend in one month
+alert(" In one month you spend "+amount+ " dollars. ");
+console.log(" In one month you spend "+Month+ " dollars on child care. ");
+
+//Figure out how much they spend in one year
+alert(" Next you will find out how much you spend in one year")
+
+
+//How many months in one year
+var oneYear = 12;
+
+//Figure out total spent in one year
+
+var total = oneYear * amount;
+
+//alert user with how much they spend in one year on child care
+alert(" In one year you spend "+total+" dollars on child care. ");
+console.log("In one year you spend "+total+" dollars on child care. ");
+
+
+
+
+
+
+
+
 
 
