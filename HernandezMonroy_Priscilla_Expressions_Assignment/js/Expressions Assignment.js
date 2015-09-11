@@ -26,8 +26,8 @@ console.log(howMuch);
 var amount = Month * howMuch;
 
 //alert user with amount they spend in one month
-alert(" In one month you spend "+amount+ " dollars. ");
-console.log(" In one month you spend "+Month+ " dollars on child care. ");
+console.log(" In one month you spend "+amount+ " dollars on child care. ");
+alert(" In one month you spend "+Month+ " dollars on child care. ");
 
 //Figure out how much they spend in one year
 alert(" Next you will find out how much you spend in one year")
@@ -40,11 +40,12 @@ var oneYear = 12;
 
 var total = oneYear * amount;
 
-//alert user with how much they spend in one year on child care
-alert(" In one year you spend "+total+" dollars on child care. ");
-console.log("In one year you spend "+total+" dollars on child care. ");
+//alert user with final values
+console.log(" In one year you spend "+total+" dollars on child care. ");
+alert("In one year you spend "+total+" dollars on child care. ");
 
-
+//
+alert("Thank you!");
 
 
 
