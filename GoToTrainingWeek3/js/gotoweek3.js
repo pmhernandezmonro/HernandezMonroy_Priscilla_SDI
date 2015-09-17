@@ -37,7 +37,7 @@ GoTo Week 3
  //Basic structure of a conditional
  // if(condition to test){code that will run if true}
 
- if(bowlOfFruit[0]==="pear") {
+  if(bowlOfFruit[0]==="pear") {
      //This code will run if true
      //Add 1 to the total numbers of pears
      console.log("This item is a pear!");
@@ -45,3 +45,37 @@ GoTo Week 3
  } else {
      console.log("This fruit is not a pear!");
  }
+
+ if(bowlOfFruit[1]==="pear") {
+     //This code will run if true
+     //Add 1 to the total numbers of pears
+     console.log("This item is a pear!");
+     totalNumPears++; //totalNumPears = totalNumPears + 1
+ } else {
+     console.log("This fruit is not a pear!");
+ }
+
+ if(bowlOfFruit[2]==="pear") {
+     //This code will run if true
+     //Add 1 to the total numbers of pears
+     console.log("This item is a pear!");
+     totalNumPears++; //totalNumPears = totalNumPears + 1
+ } else {
+     console.log("This fruit is not a pear!");
+ }
+
+ if(bowlOfFruit[3]==="pear") {
+     //This code will run if true
+     //Add 1 to the total numbers of pears
+     console.log("This item is a pear!");
+     totalNumPears++; //totalNumPears = totalNumPears + 1
+ } else {
+     console.log("This fruit is not a pear!");
+ }
+
+ console.log("There are "+totalNumPears+" pear(s) in the fruit bowl.");
+
+
+//Create a loop for repetitive code.
+
+ // For loop structure 
