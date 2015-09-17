@@ -75,7 +75,32 @@ GoTo Week 3
 
  console.log("There are "+totalNumPears+" pear(s) in the fruit bowl.");
 
+//Create a another variable to track pears
+ var pearNumber = 0;
 
 //Create a loop for repetitive code.
 
- // For loop structure 
+ // For loop structure
+ // for(intializing a counting variable; condition to test; increment of change ){ code to run for each time we loop}
+
+ for (var i =0; i<bowlOfFruit.length; i++){
+     console.log("Inside the loop, i ="+i);
+     console.log(bowlOfFruit[i]);
+     //Test if the array item is pear
+     if(bowlOfFruit[i]==="pear"){
+         console.log("found pear!");
+         pearNumber++;
+     }else{
+         console.log("Fruit is not a pear");
+     }
+
+ }
+
+ console.log("The total number of pears in the bowl is"+pearNumber);
+
+
+ //Validate prompts
+
+ var name = prompt("What is your name?");
+
+ //Test to see if the variable
