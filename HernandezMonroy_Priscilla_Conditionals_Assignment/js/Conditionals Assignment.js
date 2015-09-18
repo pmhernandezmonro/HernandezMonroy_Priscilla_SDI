@@ -7,11 +7,11 @@ Conditionals Assignment
 
 //alert ("Testing to see if connected.");
 
-//Will be calculating if user is acheving goal of going to the park to ride bike per week
+//Will be calculating if user is achieving goal of going to the park to ride bike per week
 
 // List of variables
-var days; //Number of days per week user vists park to ride bike.
-var hoursPerDay;  //Number of hours user vists park to ride bike.
+var days; //Number of days per week user visits park to ride bike.
+var hoursPerDay;  //Number of hours user visits park to ride bike.
 var goal; //Users goal.
 var totalHours; //Total of hours user is missing to reach goal.
 
@@ -32,11 +32,25 @@ if (days == "") {//Alert user if they leave prompt blank.}
 }
 //Determine how total hours user should be going to park
 totalHours = Number (goal) - Number(hoursPerDay) * Number (days);
-console.log("Looks like you are" + " "+totalHours+ " " + "hour from acheving your goal of riding your bike at the park. ");
+console.log("Looks like you are" + " "+totalHours+ " " + "hour (s) from achieving your goal of riding your bike at the park. ");
 
-//Let user know if they achieved their goal for the week
+//alert user with final values
+//Let user know if they achieved their goal for the week.
 if (goal > totalHours && totalHours == 0) {
-
-}else{
-    console.log("")
+    console.log("Great job. You did it!")
+}else{ //Lets user know they did not achieve their goal.
+    console.log("You did not achieve your goal this week Don't give up! ");
 }
+
+
+
+/* I typed 2 for How many hours per week would you like to visit the park. */
+
+/* Next I was prompted, Please enter how many hours you visit the park per day my answer was 2 */
+
+/* Next I was prompted, How many days do you visit the park per week my answer was 5  */
+
+/* Next it gave me the final answer Looks like you are -8 hour (s) from achieving your goal of riding your bike at the park.
+You did not achieve your goal this week Don't give up! . */
+
+
