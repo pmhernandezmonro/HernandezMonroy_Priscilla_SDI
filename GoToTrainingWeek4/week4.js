@@ -64,3 +64,16 @@ happy = happy.toLowerCase();
      happy = prompt("Please only yes or no.\nAre you happy today?");
 
  }
+//function call - "go button" that runs function.
+ randomizr();
+ //Create a function to calculate the random number
+ function randomizr(min, max){
+
+     //Generate our random number
+     var randomNumber = Math.random()*(max-min)+Number(min);
+     console.log(randomNumber);
+//return value to our main code.
+
+
+ }
+
