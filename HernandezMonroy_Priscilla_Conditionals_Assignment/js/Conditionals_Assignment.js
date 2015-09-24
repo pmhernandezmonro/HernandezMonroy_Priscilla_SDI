@@ -42,7 +42,7 @@ if (goal > totalHours && totalHours == 0) {
     console.log("You did not achieve your goal this week Don't give up! ");
 }
 
-
+(goal > totalHours) ? console.log('goal is bigger'):console.log('total hours is bigger.');
 
 /* I typed 2 for How many hours per week would you like to visit the park. */
 

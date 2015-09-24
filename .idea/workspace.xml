@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6ceae3f-2223-4f06-94f6-81d2a66dbe87" name="Default" comment="" />
+    <list default="true" id="f6ceae3f-2223-4f06-94f6-81d2a66dbe87" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/js/Conditionals Assignment.js" afterPath="$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/js/Conditionals_Assignment.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/HernandezMonroy_Priscilla_Expressions_Assignment.zip" afterPath="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/HernandezMonroy_Priscilla_Expressions_Assignment.zip" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions Assignment.js" afterPath="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions_Assignment.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/Conditionals Assignment.html" afterPath="$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/Conditionals Assignment.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/Expressions Assignment.html" afterPath="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/Expressions Assignment.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="HernandezMonroy_Priscilla_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,21 +28,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Conditionals Assignment.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Conditionals Assignment.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/Conditionals Assignment.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.22288261">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Conditionals Assignment.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/js/Conditionals Assignment.js">
+      <file leaf-file-name="Conditionals_Assignment.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/js/Conditionals_Assignment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8177905">
-              <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -43,11 +50,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Expressions Assignment.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions Assignment.js">
+      <file leaf-file-name="Expressions Assignment.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/Expressions Assignment.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.25">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Expressions_Assignment.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions_Assignment.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="58" column="40" selection-start-line="43" selection-start-column="0" selection-end-line="58" selection-end-column="40" />
+              <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -76,11 +93,11 @@
         <option value="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/Js2/Expressions Assignment.js" />
         <option value="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions Assignment.js" />
         <option value="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions Assignment.html" />
-        <option value="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/Expressions Assignment.html" />
         <option value="$PROJECT_DIR$/GoToTrainingWeek3/GoToWeek3.html" />
         <option value="$PROJECT_DIR$/GoToTrainingWeek3/js/gotoweek3.js" />
-        <option value="$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/Conditionals Assignment.html" />
+        <option value="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/Expressions Assignment.html" />
         <option value="$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/js/Conditionals Assignment.js" />
+        <option value="$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/Conditionals Assignment.html" />
       </list>
     </option>
   </component>
@@ -138,70 +155,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HernandezMonroy_Priscilla_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HernandezMonroy_Priscilla_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HernandezMonroy_Priscilla_Expressions_Assignment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HernandezMonroy_Priscilla_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HernandezMonroy_Priscilla_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HernandezMonroy_Priscilla_Expressions_Assignment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HernandezMonroy_Priscilla_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HernandezMonroy_Priscilla_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HernandezMonroy_Priscilla_Conditionals_Assignment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HernandezMonroy_Priscilla_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HernandezMonroy_Priscilla_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HernandezMonroy_Priscilla_Conditionals_Assignment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -218,15 +171,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment" />
       <recent name="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js" />
+      <recent name="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment" />
       <recent name="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/Js2" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.Expressions Assignment.js">
-    <configuration default="false" name="Expressions Assignment.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Expressions Assignment.js" working-dir="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js">
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -265,14 +215,12 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="false" name="Expressions Assignment.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions_Assignment.js" working-dir="$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js">
+      <method />
+    </configuration>
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Node.js.Expressions Assignment.js" />
     </list>
-    <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.Expressions Assignment.js" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -289,13 +237,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="23" width="1399" height="815" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24948876" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27285922" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27285922" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -326,11 +274,114 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GoToTrainingWeek3/js/gotoweek3.js">
+    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/Conditionals Assignment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/js/Conditionals_Assignment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/Expressions Assignment.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions_Assignment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/Conditionals Assignment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/js/Conditionals_Assignment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="59" selection-start-line="53" selection-start-column="59" selection-end-line="53" selection-end-column="59" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/Conditionals Assignment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/js/Conditionals_Assignment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions_Assignment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="58" column="40" selection-start-line="43" selection-start-column="0" selection-end-line="58" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/Conditionals Assignment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/js/Conditionals_Assignment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions_Assignment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="58" column="40" selection-start-line="43" selection-start-column="0" selection-end-line="58" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoToTrainingWeek3/js/gotoweek3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -338,7 +389,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -346,7 +396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -354,7 +403,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -365,7 +413,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions Assignment.js">
+    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions_Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -380,7 +428,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions Assignment.js">
+    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions_Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -395,7 +443,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions Assignment.js">
+    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions_Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -435,23 +483,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22354695">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/Expressions Assignment.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17830609">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/Conditionals Assignment.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -459,25 +490,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="93" column="44" selection-start-line="93" selection-start-column="44" selection-end-line="93" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions Assignment.js">
+    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/js/Expressions_Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="58" column="40" selection-start-line="43" selection-start-column="0" selection-end-line="58" selection-end-column="40" />
+          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/js/Conditionals Assignment.js">
+    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/js/Conditionals_Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8177905">
-          <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Expressions_Assignment/Expressions Assignment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HernandezMonroy_Priscilla_Conditionals_Assignment/Conditionals Assignment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22288261">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
