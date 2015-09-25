@@ -74,4 +74,4 @@ alert("Now we will find the area of the square.");
  /* Tested 12 for length and 11 for width and got a total of 132 for area . */
  /*Tested 9 for length and 10 for width and got a total of 90 for area. */
 
- 
+
